@@ -1,0 +1,106 @@
+body
+{
+  margin: 0;
+  font-size: 0.875REM;
+  text-align: center;
+  background-color: hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h4
+{
+  color: hsl(228, 12%, 48%);
+  margin-left: 2.5REM;
+  margin-top:1.875REM;
+  display: inline-block;
+  position: absolute;
+
+  letter-spacing: 0.3125REM;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+h1
+{
+  margin-right: 0.625REM;
+  color:black;
+  font-size: 2REM;
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  margin-left: 2.5REM;
+  margin-top: 4.375REM;
+  display: inline-block;
+  position: absolute;
+}
+.card
+{
+
+padding: 0;
+ text-align: left;
+ background-color:hsl(0, 0%, 100%);
+ position: relative;
+ width: 45%;
+ margin:6.125REM auto;
+ border-radius: 1.25REM;
+
+
+}
+
+.info
+{
+  line-height: 1.6;
+  color: hsl(228, 12%, 48%);
+  margin-right: 0.625REM;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  position: absolute;
+  display: inline-block;
+  margin-top: 12.5rem;
+  margin-left: 2.5rem;
+
+}
+
+.price
+{
+  display: inline-block;
+  top:19.857rem;
+  color: hsl(158, 36%, 37%);
+}
+
+h6
+{
+  font-size: 1rem;
+  position: absolute;
+  margin-left:10.625rem;
+  top:22rem;
+  color: hsl(228, 12%, 48%);
+  display: inline-block;
+  text-decoration:line-through;
+
+}
+.primg
+{
+  padding: 0;
+   margin: 0;
+   width: 50%;
+   border-radius: 1.25rem;
+
+}
+
+.button{
+
+  position: absolute;
+  top:28.25rem;
+  left:auto;
+  right: auto;
+  margin-left: 2.5rem;
+  width: 40%;
+  height: 10%;
+  border-radius: 0.625rem;
+  background-color:  hsl(158, 36%, 37%);
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+  color: hsl(0, 0%, 100%);
+  border: none;
+}
